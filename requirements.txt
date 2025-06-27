@@ -1,4 +1,2 @@
-streamlit
-gym
-imageio
-numpy
+gym[classic_control]
+
